@@ -37,7 +37,9 @@ Key breakthroughs include:
 
 ## Architecture of Vision Transformer (ViT)
 
-![alt text](<ViT Architecture.png>)
+<p align="center">
+  <img src="ViT Architecture.png" alt="Vision Transformer"/>
+</p>
 
 The ViT architecture closely mirrors the original transformer design used in NLP tasks, with a few modifications for handling image data. Here’s a breakdown of the key components:
 
